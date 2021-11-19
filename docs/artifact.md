@@ -17,11 +17,14 @@ January 2021 - Present
 
 - Created original copy for a variety of channels including email, social media, print advertising, and web pages
 
-- Provided copy editing for both the marketing team and the public health promotion team 
+- Provided copy editing for both the marketing team and the public health promotion team
 
-- Collaborated with colleagues on brainstorming projects to establish Boynton Health as a household name on the University of Minnesota campus
+- Created and oversaw internal and student newsletters, including generating content, editing content, and consulting on layout
 
-- Assisted the public health team in creating courses for faculty and staff including Mental Health Advocates course and Suicide Prevention Course
+- Collaborated with the public health team in creating courses for faculty and staff including Mental Health Advocates course and Suicide Prevention Course
+
+- Drafted and updated marketing personas to identify user pain points and craft fresh, compelling narratives
+Balanced multiple ongoing projects to deliver polished final products on tight deadlines
 
 Goldy’s Gameroom, Minneapolis MN                
 Customer Service Associate 						      
