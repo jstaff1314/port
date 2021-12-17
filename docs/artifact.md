@@ -3,14 +3,14 @@ staff209@umn.edu
 (309) 264 3514              
 1415 5th St SE, Minneapolis, MN 55414
 
-### Education
+## Education
 
 University of Minnesota Twin Cities, College of Liberal Arts			
 Bachelor of Science, Technical Writing & Communication (Expected December 2021)            
 GPA: 3.76            
 Honors: Dean’s List, Spring 2019 - Summer 2021
 
-### Work Experience
+## Work Experience
 Boynton Health, Minneapolis MN      
 Copywriter and Copy editor		    				         
 January 2021 - Present
@@ -26,8 +26,10 @@ January 2021 - Present
 - Drafted and updated marketing personas to identify user pain points and craft fresh, compelling narratives
 Balanced multiple ongoing projects to deliver polished final products on tight deadlines
 
-Goldy’s Gameroom, Minneapolis MN                
-Customer Service Associate 						      
+Goldy’s Gameroom, Minneapolis MN
+
+Customer Service Associate
+
 October 2019 - May 2021
 
 - Established rapport with a diverse range of customers to ensure quality service 
@@ -46,13 +48,13 @@ July 2018 - August 2018
 
 - Utilized technology in a corporate aspect: conducted online orders for customers and ran a cash register in a timely and efficient manner 
 
-### Skills
+## Skills
 Technical document writing: APA style, AP style, MLA style, Chicago style       
 Project management software: Basecamp, Trello           
 Software: XML, DITA XML, HTML, Markdown, Canva          
 Web content management systems: Wix, Weebly, Wordpress, Google sites
 
-### References 
+## References 
 Tara Cantwell           
 Communication Specialist, Project Manager           
 Boynton Health Services
