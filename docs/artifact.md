@@ -1,18 +1,25 @@
 # Resume
-staff209@umn.edu                                             
-(309) 264 3514              
+jstaff209@gmail.com 
+
+(309) 264 3514
+
 1415 5th St SE, Minneapolis, MN 55414
 
 ## Education
 
-University of Minnesota Twin Cities, College of Liberal Arts			
-Bachelor of Science, Technical Writing & Communication (Expected December 2021)            
-GPA: 3.76            
+University of Minnesota Twin Cities, College of Liberal Arts
+
+Bachelor of Science, Technical Writing & Communication (Expected December 2021)
+
+GPA: 3.76
+
 Honors: Dean’s List, Spring 2019 - Summer 2021
 
 ## Work Experience
-Boynton Health, Minneapolis MN      
-Copywriter and Copy editor		    				         
+Boynton Health, Minneapolis MN
+
+Copywriter and Copy editor
+
 January 2021 - Present
 
 - Created original copy for a variety of channels including email, social media, print advertising, and web pages
@@ -38,8 +45,10 @@ October 2019 - May 2021
 
 - Troubleshot a variety of problems that arose with the bowling lanes which required some experimentation to resolve
 
-Dick’s Sporting Goods, Peoria, IL           
-Sales Support/Apparel/Front End					        
+Dick’s Sporting Goods, Peoria, IL
+
+Sales Support/Apparel/Front End
+
 July 2018 - August 2018 
 
 - Interacted directly with customers to help them locate apparel and other hardgoods
@@ -49,18 +58,21 @@ July 2018 - August 2018
 - Utilized technology in a corporate aspect: conducted online orders for customers and ran a cash register in a timely and efficient manner 
 
 ## Skills
-Technical document writing: APA style, AP style, MLA style, Chicago style       
-Project management software: Basecamp, Trello           
-Software: XML, DITA XML, HTML, Markdown, Canva          
-Web content management systems: Wix, Weebly, Wordpress, Google sites
+Technical document writing: APA style, AP style, MLA style, Chicago style 
+
+Project management software: Basecamp, Trello
+
+Software: XML, DITA XML, HTML, Markdown, Canva
+
+Web content management systems: Wix, Weebly, Wordpress, Google sites, GitHub Pages
 
 ## References 
-Tara Cantwell           
-Communication Specialist, Project Manager           
-Boynton Health Services
+Jasmin Chou | Communication Specialist and Project Manager, Boynton Health Services
 
-Kate Elwell         
-Public Health Specialist
+Maurice Perkins | Marketing Director, Boynton Health
 
+Kate Elwell | Public Health Specialist, Boynton Health
+
+Information upon request
 
 
