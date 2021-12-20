@@ -4,15 +4,10 @@ In my upper level coursework, I have written for a variety of situations.
 
 ## Capstone 
 
-For my senior thesis, I conducted a feminist genre critique of horror in film. In this paper, I discuss how femininity is portrayed in horror, and what 
+For my senior thesis, I conducted a feminist genre critique of horror in film. In this paper, I 
 
-[View PDF](link)
+[View PDF](https://drive.google.com/file/d/1kc2HSuFPdIuLyNtJSObEDXWXufE7cTY6/view?usp=sharing)
 
-## Paper
-
-I chose to 
-
-[View PDF](link)
 
 ## Serpentina
 
