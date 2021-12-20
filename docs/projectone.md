@@ -1,5 +1,5 @@
 # Professional Work
-I have been working as a copywriter and copy editor for Boynton Health since January 2021. My regular responsibilities include drafting internal and external emails and proofing all outgoing content. 
+I have been working as a copywriter and copy editor for Boynton Health since January 2021. My regular responsibilities include drafting internal and external emails and proofing all outgoing content. I also help with marketing strategies
 
 ## Internal email 
 
