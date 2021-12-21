@@ -1,4 +1,4 @@
-# Personal Statement
+# Welcome
 
 Hello and welcome to my porfolio! My name is Jaden Stafford, and I recently graduated from the University of Minnesota with a degree in Technical Writing and Communication. 
 

@@ -4,7 +4,7 @@ In my upper level coursework, I have written for a variety of situations. I have
 
 ## Capstone 
 
-For my senior thesis, I conducted a feminist genre critique of horror. In this paper, I discuss the interplay between masculinity and femininity with a focus on how femininity is represented in horror films. This paper is a culmination of months of research and years of learning rhetorical strategies. 
+For my senior thesis, I conducted a feminist genre critique of horror. In this paper, I discuss the interplay between masculinity and femininity with a focus on how femininity is represented in horror films. This paper is a culmination of months of research and years of learning rhetorical strategies. While it is a technical research paper, my thesis also showcases my creativity and passion. 
 
 [View PDF](https://drive.google.com/file/d/1kc2HSuFPdIuLyNtJSObEDXWXufE7cTY6/view?usp=sharing)
 
