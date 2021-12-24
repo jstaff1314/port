@@ -22,7 +22,7 @@ January 2021 - Present
 
 - Provided copy editing for both the marketing team and the public health promotion team
 
-- Created and oversaw internal and student newsletters, including generating content, editing content, and consulting on layout
+- Generated and edited content for internal and student newsletters that reached a combined audience of over 50,000 people
 
 - Collaborated with the public health team in creating courses for faculty and staff including Mental Health Advocates course and Suicide Prevention Course
 
