@@ -9,9 +9,9 @@ University of Minnesota Twin Cities, College of Liberal Arts
 
 Bachelor of Science, Technical Writing & Communication (Expected December 2021)
 
-GPA: 3.76
+GPA: 3.78
 
-Honors: Dean’s List, Spring 2019 - Summer 2021
+Honors: Dean’s List, Spring 2019 - Fall 2021
 
 ## Work Experience
 Boynton Health, Minneapolis MN  
@@ -27,7 +27,8 @@ January 2021 - Present
 - Collaborated with the public health team in creating courses for faculty and staff including Mental Health Advocates course and Suicide Prevention Course
 
 - Drafted and updated marketing personas to identify user pain points and craft fresh, compelling narratives
-Balanced multiple ongoing projects to deliver polished final products on tight deadlines
+
+- Balanced multiple ongoing projects to deliver polished final products on tight deadlines
 
 Goldy’s Gameroom, Minneapolis MN    
 Customer Service Associate  
